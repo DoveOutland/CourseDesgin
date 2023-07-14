@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "bspinit.h": "c",
+        "derivative.h": "c"
+    }
+}
